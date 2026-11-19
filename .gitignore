@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.egg-info/
+dist/
+build/
+
+# Secrets — never commit these
+.env
+
+# Generated output (regenerated on every run)
+output/
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/

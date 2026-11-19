@@ -1,0 +1,25 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "creator-repurpose-agent"
+version = "0.1.0"
+description = "Turn one long recording into show notes, a blog post, LinkedIn/X posts, a newsletter, chapters and pull quotes — free, local-first, no paid API required."
+readme = "README.md"
+license = { text = "MIT" }
+requires-python = ">=3.10"
+dependencies = [
+    "faster-whisper==1.0.3",
+    "youtube-transcript-api==1.2.5",
+    "yt-dlp==2025.10.22",
+    "google-generativeai==0.8.5",
+    "streamlit==1.40.1",
+    "python-dotenv==1.0.1",
+]
+
+[project.scripts]
+repurpose = "repurpose.cli:main"
+
+[tool.setuptools.packages.find]
+include = ["repurpose*"]
