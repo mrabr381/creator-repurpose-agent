@@ -1,23 +1,23 @@
-# Show notes — Sample Transcript
+# Show notes — Eisenhower First Inaugural Address 1953
 
-**674 words · about 14 minutes · Source: sample_data/sample_transcript.txt**
+**2445 words · about 16 minutes · Source: sample_data/sample_transcript.txt**
 
 ## In this episode
 
-- In the six months before the change, I published twenty-four videos and gained 400 subscribers.
-- Subscribers grew by 3,100 in those six months.
-- The long videos did not get better.
-- The system around them got better.
-- The recording takes ninety minutes.
-- Cutting the short clips takes two hours, and writing the text posts takes one hour.
+- This faith rules our whole way of life.
+- It asserts that we have the right to choice of our own work and to the reward of our own toil.
+- This conflict strikes directly at the faith of our fathers and the lives of our sons.
+- For all our own material might, even we need markets in the world for the surpluses of our farms and our factories.
+- We must be ready to dare all for our country.
+- The productivity of our heads, our hands and our hearts is the source of all the strength we can command, for both the enrichment of our lives and the winning of the peace.
 
 ## Key topics
 
-Blog Post, Ninety Minutes, Whole Week, Twenty Four, Long Videos, Short Clips
+Free Peoples, Fellow Citizens, Secure Peace, Free People, Free World, World Leadership
 
 ## Standout line
 
-> That cycle burned me out, and my channel grew by only 400 subscribers in eighteen months.
+> We are called as a people to give testimony in the sight of the world to our faith that the future shall belong to the free.
 
 ---
 _Generated locally (no AI key used). Every point above is taken from the transcript._

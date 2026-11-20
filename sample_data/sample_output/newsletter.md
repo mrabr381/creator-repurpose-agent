@@ -1,21 +1,21 @@
-# Sample Transcript
+# Eisenhower First Inaugural Address 1953
 
-Hi — this week, one episode, distilled. (14 min to read the source.)
+Hi — this week, one episode, distilled. (16 min to read the source.)
 
 ## The big idea
 
-In the six months before the change, I published twenty-four videos and gained 400 subscribers.
+This faith rules our whole way of life.
 
 ## 3 things worth keeping
 
-1. Subscribers grew by 3,100 in those six months.
-2. The long videos did not get better.
-3. The system around them got better.
+1. It asserts that we have the right to choice of our own work and to the reward of our own toil.
+2. This conflict strikes directly at the faith of our fathers and the lives of our sons.
+3. For all our own material might, even we need markets in the world for the surpluses of our farms and our factories.
 
 ## Quote of the week
 
-> That cycle burned me out, and my channel grew by only 400 subscribers in eighteen months.
+> We are called as a people to give testimony in the sight of the world to our faith that the future shall belong to the free.
 
 ## Try this
 
-That is the entire system, and it is the reason this channel finally started growing.
+My citizens--I thank you.

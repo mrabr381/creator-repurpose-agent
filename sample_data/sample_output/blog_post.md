@@ -1,47 +1,49 @@
-# Sample Transcript
+# Eisenhower First Inaugural Address 1953
 
-_A 14-minute read, drawn entirely from the episode transcript._
+_A 16-minute read, drawn entirely from the episode transcript._
 
 ## The idea in one paragraph
 
-In the six months before the change, I published twenty-four videos and gained 400 subscribers.
+This faith rules our whole way of life.
 
 ## What actually came up
 
-### Subscribers Grew By 3100
+### It Asserts That We Have
 
-Subscribers grew by 3,100 in those six months.
+It asserts that we have the right to choice of our own work and to the reward of our own toil.
+It inspires the initiative that makes our productivity the wonder of the world.
 
-### The Long Videos Did Not
+### This Conflict Strikes Directly
 
-The long videos did not get better.
+This conflict strikes directly at the faith of our fathers and the lives of our sons.
+No principle or treasure that we hold, from the spiritual knowledge of our free schools and churches to the creative magic of free labor and capital, nothing lies safely beyond the reach of this struggle.
 
-### The System Around Them Got
+### For All Our Own Material
 
-The system around them got better.
-The second rule is that one idea gets one format, never two.
+For all our own material might, even we need markets in the world for the surpluses of our farms and our factories.
+Equally, we need for these same farms and factories vital materials and products of distant lands.
 
-### The Recording Takes Ninety Minutes
+### We Must Be Ready
 
-The recording takes ninety minutes.
-The transcript takes about twenty minutes to review.
+We must be ready to dare all for our country.
+For history does not long entrust the care of freedom to the weak or the timid.
 
-### Cutting The Short Clips Takes
+### The Productivity Of Our Heads
 
-Cutting the short clips takes two hours, and writing the text posts takes one hour.
-That is roughly five hours a week, which is less than the eight hours I used to spend editing one video badly.
+The productivity of our heads, our hands and our hearts is the source of all the strength we can command, for both the enrichment of our lives and the winning of the peace.
+No person, no home, no community can be beyond the reach of this call.
 
 ## Worth remembering
 
-> That cycle burned me out, and my channel grew by only 400 subscribers in eighteen months.
+> We are called as a people to give testimony in the sight of the world to our faith that the future shall belong to the free.
 
-> I do not pause to fix a mistake, because a mistake in a ninety-minute recording is one bad minute, not a ruined video.
+> It is because we, all of us, hold to these principles that the political changes accomplished this day do not imply turbulence, upheaval or disorder.
 
-> They open the editing software first and they start cutting clips by feel, and after three hours they have twelve clips and no idea which one matters.
+> We shall remain free, never to be proven guilty of the one capital offense against freedom, a lack of stanch faith.
 
 ## Bottom line
 
-That is the entire system, and it is the reason this channel finally started growing.
+My citizens--I thank you.
 
 ---
 _This post is a faithful retelling of the transcript — no new facts were added._

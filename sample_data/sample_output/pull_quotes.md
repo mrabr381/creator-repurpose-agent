@@ -1,13 +1,13 @@
-# Pull quotes — Sample Transcript
+# Pull quotes — Eisenhower First Inaugural Address 1953
 
 Every quote below is copied word-for-word from the transcript.
 
-> That cycle burned me out, and my channel grew by only 400 subscribers in eighteen months.
+> We are called as a people to give testimony in the sight of the world to our faith that the future shall belong to the free.
 
-> I do not pause to fix a mistake, because a mistake in a ninety-minute recording is one bad minute, not a ruined video.
+> It is because we, all of us, hold to these principles that the political changes accomplished this day do not imply turbulence, upheaval or disorder.
 
-> They open the editing software first and they start cutting clips by feel, and after three hours they have twelve clips and no idea which one matters.
+> We shall remain free, never to be proven guilty of the one capital offense against freedom, a lack of stanch faith.
 
-> In the six months before the change, I published twenty-four videos and gained 400 subscribers.
+> Knowing that only a United States that is strong and immensely productive can help defend freedom in our world, we view our Nation's strength and security as a trust upon which rests the hope of free men everywhere.
 
-> A story that works as a sixty-second clip will fail as a blog post, because a blog post needs evidence and a clip needs tension.
+> Only as free Europe unitedly marshals its strength can it effectively safeguard, even with our help, its spiritual and cultural heritage.

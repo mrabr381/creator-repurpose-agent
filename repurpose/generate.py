@@ -149,6 +149,9 @@ def _key_phrases(text: str, count: int = 6) -> list[str]:
         # them made non-adjacent words look adjacent and produced the junk
         # bigram "change published" from "...the change, I published...".
         words = [w for w in re.findall(r"[a-z][a-z']*", sentence.lower())]
+        # Drop possessives ("world's" -> "world"): title-casing a possessive
+        # produced junk topics like "Free World'S" in the sample output.
+        words = [w[:-2] if w.endswith("'s") else w for w in words]
         for first, second in zip(words, words[1:]):
             if first in STOPWORDS or second in STOPWORDS:
                 continue
